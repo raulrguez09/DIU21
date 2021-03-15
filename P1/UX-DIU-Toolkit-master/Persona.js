@@ -17,7 +17,7 @@
 
 angular.module("angular", [])
 	.controller("controller", ["$scope", function($scope) { 
-        $scope.Grupo_ID ="DIU1.ABCDEF";
+        $scope.Grupo_ID ="DIU2.Matarratas";
         $scope.Curso ="2020/21";
         $scope.Github_ID ="https://github.com/mgea/UX-DIU-Toolkit";
         
@@ -33,14 +33,14 @@ angular.module("angular", [])
                 
                 
 				Id: 0,
-				Name: "Gregory Harrison",
+				Name: "Pablo José Torres",
 				Photo: "man.png",
-				Quote: "Carpe Diem",
+				Quote: "Pecuniae Omnia Parent",
 				Age: 49,
 				Occupation: "Panadero",
 				Family: "Soltero",
-				Location: "Alicante (Pilar de la Horadada)",
-				Character: "Le gusta la calma y la tranquilidad",
+				Location: "Alicante (Pilar de la Horadada - ESPAÑA)",
+				Character: "No tener preocupaciones",
 				PersonalityTraits: [
 					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 2 },
 					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 1 },
@@ -59,10 +59,10 @@ angular.module("angular", [])
 				], 
                 Contextos: "Lleva bastantes años, sintiendo un agobio, y sentimiento de estar confinado",  
 				PreferredChannels: [
-					{ Name: "Publicidad Tradicional", Value: 5 },
+					{ Name: "Publicidad Tradicional", Value: 4 },
 					{ Name: "Online & Social Media", Value: 2 },
-					{ Name: "Recomendaciones & sugerencias", Value: 4 },
-					{ Name: "Persona confianza (amigos, boca a boca)", Value: 2 }
+					{ Name: "Recomendaciones & sugerencias", Value: 3 },
+					{ Name: "Persona confianza (amigos, boca a boca)", Value: 4 }
 				]
 			},
 			{	
@@ -74,36 +74,36 @@ angular.module("angular", [])
                 
                 
 				Id: 1,
-				Name: "Monica Suarez",
+				Name: "Mei Ling",
 				Photo: "woman.png",
-				Quote: "A quotation that captures the essence of this person's personality",
-				Age: 17,
-				Occupation: "Searching for a cure for the Empress",
-				Family: "No parents, only family are the people who raised him.",
-				Location: "The Grassy Plains of Fantasia",
-				Character: "Strong, reliable and fearless.",
+				Quote: "Memento Mori",
+				Age: 19,
+				Occupation: "Estudiante",
+				Family: "Padres y un hermano pequeño",
+				Location: "Sichuan (Chengdu - CHINA)",
+				Character: "Descubrir cualquier cultura de los rincones del mundo",
 				PersonalityTraits: [
-					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 3 },
+					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 1 },
 					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 3 },
-					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 2 },
-					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 2 }
+					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 5 },
+					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 3 }
 				], 
-				Goals: ["The goals this user hopes to achieve.", "A task that needs to be completed.", "A life goal to be reached.", "An experience to be felt."],
-				Frustrations: ["The frustrations this user would like to avoid.", "The obstacle that prevents the user from achieving their goals.", "The problems with the solutions already available.", "The product or service which does not currently exist."],
-				Bio: "The bio should be a short paragraph to describe the user journey. It should include some of their history leading up to a current use case. It may be helpful to incorporate information listed across the template and add pertinent details that may have been left out. Highlight factors of the user's personal and professional life that make this user an ideal customer of your product.",
+				Goals: ["Aprender español", "Heredar la empresa familiar del restaurante", "Tener pareja", "Tirarse en paracaídas"],
+				Frustrations: ["Sentir decepción por parte de su familia", "Ser muy timida con las personas", "Lo caro que es una academia de español"],
+				Bio: "Mei, la cual su familia tiene una empresa familiar de restaurantes, siente que que puede ayudar a su familia impulsando el negocio de sus padres, aprendiendo idiomas de los turistas que vienen a comer, uno de ellos es el Español, puesto que muchos visitantes son de Granada",
 				Tech: [
-					{ Name: "TIC/Internet", Value: 5 },
-					{ Name: "Mobile", Value: 3 },
-					{ Name: "RRSS", Value: 3 },
-					{ Name: "Software", Value: 5 }
+					{ Name: "TIC/Internet", Value: 3 },
+					{ Name: "Mobile", Value: 4 },
+					{ Name: "RRSS", Value: 5 },
+					{ Name: "Software", Value: 2 }
 					
 				], 
-                Contextos:   "The goals this user hopes to achieve." ,
+                Contextos:   "Ir a Granada y aprender español, a la vez que ve como funcionan los restaurantes de la ciudad" ,
 				PreferredChannels: [
-					{ Name: "Publicidad Tradicional (Ads)", Value: 5 },
-					{ Name: "Online & Social Media", Value: 2 },
-					{ Name: "Recomendaciones & sugerencias", Value: 2 },
-					{ Name: "Persona confianza (amigos, boca a boca)", Value: 2 }
+					{ Name: "Publicidad Tradicional (Ads)", Value: 2 },
+					{ Name: "Online & Social Media", Value: 5 },
+					{ Name: "Recomendaciones & sugerencias", Value: 3 },
+					{ Name: "Persona confianza (amigos, boca a boca)", Value: 1 }
 				]
 			}
 		];
