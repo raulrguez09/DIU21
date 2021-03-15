@@ -33,36 +33,36 @@ angular.module("angular", [])
                 
                 
 				Id: 0,
-				Name: "Pedro",
+				Name: "Gregory Harrison",
 				Photo: "man.png",
 				Quote: "Carpe Diem",
-				Age: 32,
-				Occupation: "Comercial en empresa de automocion",
-				Family: "Con pareja desde hace 1 año",
-				Location: "Granada (Huetor Vega)",
-				Character: "Le gusta disfrutar del tiempo",
+				Age: 49,
+				Occupation: "Panadero",
+				Family: "Soltero",
+				Location: "Alicante (Pilar de la Horadada)",
+				Character: "Le gusta la calma y la tranquilidad",
 				PersonalityTraits: [
-					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 4 },
+					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 2 },
 					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 1 },
-					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 3 },
-					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 5 }
+					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 2 },
+					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 4 }
 				], 
-				Goals: ["Disfrutar del tiempo libre, viajar", "Cambiar a un trabajo más estable"],
-				Frustrations: ["le gusta la tecnología, pero siempre 'llama a un amigo' para resolver problemas", "Le gustaría tener más tiempo libre y leer más"],
-				Bio: "Es de Modril y vino a Granada para estudiar administración de empresas, pero no ha tenido grandes oportunidades de trabajo. LLeva 2 años contratado en la empresa actual. Aqui ha hecho buenos amigo en el trabajo y normalmente ser reunen para fiestas y a veces organizan viajes",
+				Goals: ["Disfrutar de una cerveza viendo la tele", "Ser empresario, de una cadena de panaderías"],
+				Frustrations: ["Le gustaria viajar, pero le incomoda salir de su zona de confort", "Le gustaría probar comidas nuevas y gourmet"],
+				Bio: "Es de Murcia, pero vino a vivir Pilar de la Hordada, cuando al no entrar en la carrera, una amiga de su madre le encontró un trabajo de panadero en su pueblo",
 				Tech: [
-					{ Name: "TIC/Internet", Value: 2 },
+					{ Name: "TIC/Internet", Value: 1 },
 					{ Name: "Movil", Value: 2 },
-					{ Name: "RRSS", Value: 3 },
-					{ Name: "Software", Value: 2 }
+					{ Name: "RRSS", Value: 2 },
+					{ Name: "Software", Value: 1 }
 					
 				], 
-                Contextos: "LLeva un tiempo preocupado y quiere desconectar Le gustaría dar una sorpresa a sus amigos para las vacaciones",  
+                Contextos: "Lleva bastantes años, sintiendo un agobio, y sentimiento de estar confinado",  
 				PreferredChannels: [
 					{ Name: "Publicidad Tradicional", Value: 5 },
-					{ Name: "Online & Social Media", Value: 3 },
-					{ Name: "Recomendaciones & sugerencias", Value: 2 },
-					{ Name: "Persona confianza (amigos, boca a boca)", Value: 1 }
+					{ Name: "Online & Social Media", Value: 2 },
+					{ Name: "Recomendaciones & sugerencias", Value: 4 },
+					{ Name: "Persona confianza (amigos, boca a boca)", Value: 2 }
 				]
 			},
 			{	
