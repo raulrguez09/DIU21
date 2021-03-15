@@ -38,7 +38,7 @@ angular.module("angular", [])
 				Quote: "Pecuniae Omnia Parent",
 				Age: 49,
 				Occupation: "Panadero",
-				Family: "Soltero",
+				Family: "Divorciado",
 				Location: "Alicante (Pilar de la Horadada - ESPAÑA)",
 				Character: "No tener preocupaciones",
 				PersonalityTraits: [
@@ -49,7 +49,7 @@ angular.module("angular", [])
 				], 
 				Goals: ["Disfrutar de una cerveza viendo la tele", "Ser empresario, de una cadena de panaderías"],
 				Frustrations: ["Le gustaria viajar, pero le incomoda salir de su zona de confort", "Le gustaría probar comidas nuevas y gourmet"],
-				Bio: "Es de Murcia, pero vino a vivir Pilar de la Hordada, cuando al no entrar en la carrera, una amiga de su madre le encontró un trabajo de panadero en su pueblo",
+				Bio: "Es de Murcia, pero vino a vivir a Pilar de la Horadada, cuando al no entrar en la carrera, una amiga de su madre le encontró un trabajo de panadero en su pueblo. Antes de mudarse, conoció a una mujer con la que se casó y se divorció hace 6 meses, la cual se llevó a su hija a Granada.",
 				Tech: [
 					{ Name: "TIC/Internet", Value: 1 },
 					{ Name: "Movil", Value: 2 },
@@ -57,7 +57,7 @@ angular.module("angular", [])
 					{ Name: "Software", Value: 1 }
 					
 				], 
-                Contextos: "Lleva bastantes años, sintiendo un agobio, y sentimiento de estar confinado",  
+                Contextos: "Quiere visitar a su hija después de 6 meses sin verla y aprovechar para visitar la ciudad por primera vez",  
 				PreferredChannels: [
 					{ Name: "Publicidad Tradicional", Value: 4 },
 					{ Name: "Online & Social Media", Value: 2 },
