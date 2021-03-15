@@ -19,7 +19,7 @@
 
 angular.module("angular", [])
 	.controller("controller", ["$scope", function($scope) { 
-		$scope.Grupo_ID ="DIU1.ABCDEF";
+		$scope.Grupo_ID ="DIU2.Matarratas";
         $scope.Curso ="2020/21";
         $scope.Github_ID ="https://github.com/mgea/UX-DIU-Toolkit";
         
@@ -34,55 +34,55 @@ angular.module("angular", [])
                 /*************************************/
                 
 				Id: 0,
-				Name: "Pedro",
+				Name: "Pablo José Torres",
                 Photo: "man.png",
     
                 /*** PASO #1: INSPIRACION ***/ 
-                goal1: "quiere preparar un viaje con sus amigos en Semana Santa",
-                touch1: "agenda",
+                goal1: "Quiere preparar un viaje a Granada para visitar a su hija y hacer turismo de paso",
+                touch1: "Calendario",
                 feel1: "4",
-                con1: "ver cuantos días puede tener libres para organizar lugar de viaje ",
-                ima1: "cartoon-planning.png",
+                con1: "Buscar a alguien que le sustituya durante 3 días en la panadería",
+                ima1: "cartoon-shaking.png",
 				
                 /*** PASO #2: DECICION ***/ 
-                goal2: "Busca en internet ofertas para esas fechas",
+                goal2: "Busca en internet ofertas de turismo para esas fechas",
                 touch2: "Movil",
                 feel2: "2",
-                con2: "hay demasiada información y pierde mucho tiempo, no hay precios 'baratos'",
-                ima2: "cartoon-PCangry.png",
+                con2: "Salen demasiadas páginas e información, y al no tener experiencia, no sabe elegir bien cual le viene mejor",
+                ima2: "cartoon-PChard.png",
                 
                 /*** PASO #3: ACTUA ***/ 
                 
-                goal3: "Decide buscar un alojamiento rural  en plasencia, donde hay procesiones y parece que hará buen tiempo",
+                goal3: "Decide buscar un alojamiento cercano a la Alhambra, debido a que el piso de su hija esta cerca.",
                 touch3: "móvil (el tiempo)",
                 feel3: "3",
-                con3: "Está preocupado por el tiempo y el desplazamiento (coche y aparcamiento)",
-                ima3: "cartoon-phone.png",
+                con3: "Está preocupado por el coste y por si hay plazas de aparcamiento",
+                ima3: "cartoon-PCangry.png",
                 
                 /*** PASO #4: OBSERVA ***/ 
                 
-                goal4: "Los amigos le recomiendan una página para escoger alojamientos",
+                goal4: "Su exmujer le recomienda una página web para obtener ofertas de turismo y hotel juntas",
                 touch4: "ordenador",
                 feel4: "4",
-                con4: "Buscar opciones en el lugar que había seleccionado, viendo precios y distancias, tiene que ver si hay aparcamiento fácil",
-                ima4: "cartoon-PCtyping.png",
+                con4: "Buscar opciones en el lugar que había seleccionado, observando precios y distancias, y comprobando si hay plazas de aparcamiento cercano",
+                ima4: "cartoon-phone-sitting.png",
                 
                  /*** PASO #5: ANALIZA ***/ 
                 
-                goal5: "Se encuentra 3 opciones que encajan en sus preferencias",
+                goal5: "Encuentra 2 hoteles que cumplen que sus preferencias",
                 touch5: "móvil (whatsapp)",
-                feel5: "2",
-                con5: "Llama a sus amigos (whatsapp no responen) para ver cual es su preferencia, tienen que reservar rápido por los precios",
-                ima5: "cartoon-phoning.png",
+                feel5: "1",
+                con5: "No ve que desde la misma página pueda reservar el hotel, por lo que tiene que entrar a la página web de dicho hotel",
+                ima5: "cartoon-looking.png",
                 
                 
                 /*** PASO #6: CONCLUSION ***/ 
                 
-                goal6: "Consigue reservar, otro año se encarga otro!",
+                goal6: "Reserva el hotel más barato",
                 touch6: "ordenador",
-                feel6: "3",
-                con6: "algunos amigos no confirmaron por lo que tuvo que seleccionar reserva con posibilidad de cancelación",
-                ima6: "cartoon-resting.png",
+                feel6: "2",
+                con6: "Todavia le queda por buscar un plan turístico que hacer durante su estancia en Granada ",
+                ima6: "cartoon-PCcrying.png",
                 
 			},
 			{	
