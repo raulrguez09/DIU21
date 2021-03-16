@@ -1,7 +1,9 @@
 ## DIU - Practica1, entregables
 
 Alumnos: Raúl Rodríguez Pérez y Raúl Castro Moreno
+
 Grupo: DIU2_MATARRATAS
+
 Github: https://github.com/raulrguez09/DIU21/tree/master/P1
 
 - Desk research: Análisis Competencia 
