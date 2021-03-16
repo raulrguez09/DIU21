@@ -1,18 +1,19 @@
 ## DIU - Practica1, entregables
 
-
-
+Alumnos: Raúl Rodríguez Pérez y Raúl Castro Moreno
+Grupo: DIU2_MATARRATAS
+Github: https://github.com/raulrguez09/DIU21/tree/master/P1
 
 - Desk research: Análisis Competencia 
 
 	Para realizar el análisis de competencia, hemos buscados unas plataformas similares que se ajusten a lo que buscamos:
 
-	1) granadatur: http://www.granadatur.com/
-	2) turgranada: https://www.turgranada.es/
-	3) granada_info: https://granadainfo.com/
-	4) guias_granada: https://www.guiasgranada.com/
+	- granadatur: http://www.granadatur.com/
+	- turgranada: https://www.turgranada.es/
+	- granada_info: https://granadainfo.com/
+	- guias_granada: https://www.guiasgranada.com/
 
-	Factores para analizar: Atractiva, 
+	Tabla comparativa: [tabla](https://github.com/raulrguez09/DIU21/blob/master/P1/Competitor_Analysis.pdf) 
 
 - 2 Personas 
 - 2 User Journey Map  ( 1 por persona)
