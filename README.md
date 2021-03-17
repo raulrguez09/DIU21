@@ -44,8 +44,9 @@ Miembros
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
+>>> [La visita de Pablo](P1/pabloMap.png) Está si es una experiencia de usuario realmente habitual, cuando una persona visita a sus hijos en otra ciudad y aparte de ello, aprovechan la ocasión para realizar turismo en ese lugar.
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+>>> [La ambición de Mei](P1/meiMap.png) Muestra un viaje de turismo a Granada de una persona extranjera, quizás la razón por la que lo hace no es muy habitual, pero lo que son los sucesos para realizarlo si lo considero habitual.
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
