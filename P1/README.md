@@ -18,7 +18,10 @@ Github: https://github.com/raulrguez09/DIU21/tree/master/P1
 	Tabla comparativa: [analisis](https://github.com/raulrguez09/DIU21/blob/master/P1/Competitor_Analysis.pdf) 
 
 - 2 Personas 
+	La primera persona es Pablo Jose Torres
 	![ScreenShot](pablo.png)
+
+	La segunda persona es Mei Ling
 	![ScreenShot](mei.png)
 
 - 2 User Journey Map  ( 1 por persona)
