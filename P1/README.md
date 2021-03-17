@@ -18,10 +18,11 @@ Github: https://github.com/raulrguez09/DIU21/tree/master/P1
 	Tabla comparativa: [analisis](https://github.com/raulrguez09/DIU21/blob/master/P1/Competitor_Analysis.pdf) 
 
 - 2 Personas 
-	La primera persona es Pablo Jose Torres
+
+	La primera persona que hemos creado es Pablo José Torres, una persona que lleva siendo panadero toda su vida en un pueblo de Alicante, que no ha viajado nunca y que tampoco maneja las redes sociales. Debido a un divorcio, su hija se va a vivir a Granada , y es por ello que cuando decide ir a verla, se decanta por realizar turismo por la ciudad y así aprovechar su estancia allí
 	![ScreenShot](pablo.png)
 
-	La segunda persona es Mei Ling
+	La segunda persona que hemos creado es Mei Ling, una chica de nacionalidad China, la cual su familia tiene un negocio de restaurantes, y esta, con tal de ayudar a su familia, se plantea descubrir nuevos sabores los cuales puedan usar en sus restaurantes, realizando un tour gastronómico por la ciudad de Granada.
 	![ScreenShot](mei.png)
 
 - 2 User Journey Map  ( 1 por persona)
