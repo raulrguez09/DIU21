@@ -52,10 +52,12 @@ Miembros
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+>>>>   - Enlace del documento: [Usability_review](https://github.com/raulrguez09/DIU21/blob/master/P1/Usability-review-GRANADATUR.pdf)
+  - Valoración final: 56
+  - Comentario sobre la valoración: 
+
+En general la web no cumple con las principales características y metas que se persiguen. La estructuración no es buena y el diseño es poco atractivo. La información que se muestra es suficiente, pero el apoyo visual con imágenes o videos es escaso. Además uno de los grandes problemas de la web son los tiempos de carga, estos son muy elevados y afectan en gran medida a la experiencia del usuario. Por otro lado la función de búsqueda esta muy mal diseñada, sin posibilidad para filtrar, ni mensajes de error al buscar cosas sin sentido. Aún asi, la web presenta un menu desplegable donde se muestran las principales actividades, que resulata bastante intuitivo. En conclusión, una vez vistas las web's de la competencia, pensamos que 'Granadtur' es una plataforma poco recomendable, con una experiencia de usuario bastante mala, por lo que, recomendamos el uso de otras webs para cumplir las metas expuestas. 
+
 
 
 ## Paso 2. UX Design  
