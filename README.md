@@ -15,8 +15,8 @@ Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:   Raúl Rodríguez Pérez -  https://github.com/raulrguez09    :octocat:     
+ * :bust_in_silhouette:  Raúl Castro Moreno - https://github.com/Rullencastro    :octocat:
 
 ----- 
 
