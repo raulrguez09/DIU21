@@ -39,7 +39,7 @@ Github: https://github.com/raulrguez09/DIU21/tree/master/P1
 	
 - Revisión de Usabilidad 
 	
-  - Enlace del documento: [Usability_review](https://github.com/raulrguez09/DIU21/blob/master/P1/Usability-review-GRANADATUR.pdf%20-%20Valoraci%C3%B3n%20Usabilidad.pdf)
+  - Enlace del documento: [Usability_review](https://github.com/raulrguez09/DIU21/blob/master/P1/Usability-review-GRANADATUR.pdf)
 
 
 
