@@ -31,11 +31,7 @@ Miembros
 
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
-- granadatur: Se trata de la web que hemos elegido en cuestión. Es una plataforma con un diseño bastante anticuado y con poca variedad de idiomas. Aun así, la web cuenta con bastante información sobre diversas actividades turísticas y hospedajes en Granada.
-- turgranada: Esta plataforma posee una muy buena estructuración de la información, además el diseño de la web es intuitivo y bastante atractivo. Todo eso junto con la cantidad de idiomas que posee, presenta una muy buena opción tanto para extranjeros como para españoles.
-- granada_info: Esta web presenta un diseño minimalista pero eficaz. Presenta una gran variedad de informacion sobre la gastronomia en granada, aunque no posee ni app para móvil ni redes sociales.
-- guias_granada: Esta plataforma tiene una sobrecarga en el diseño, los colores son demasiado llamativos y la informacion esta mal estructurada. Aun asi esta cuenta con app y redes sociales para promocionar su web.
- 
+>>> Nuestra tarea consiste en comparar las diversas webs que estan relacionadas con las actividades turísticas en Granada. Por ello una vez teníamos el objetivo en mente, encontramos las siguientes páginas web: [granadatur](http://www.granadatur.com/), [turgranada](https://www.turgranada.es/), [granada_info](https://granadainfo.com/), [guias_granada](https://www.guiasgranada.com/). Tras esto, pasamos a realizar un breve y conciso análicis a dichas plataformas. Esto consistía en realizar algunas funciones que nosotros considerábamos básicas como, buscar hotel en el centro de granada, buscar una ruta de tapas, encontrar información sobre el corpus, etc. A continuación, gracias a esta primera toma de contacto con las páginas decidimos escoger la web de "Granadatur", debido a que la veíamos como una web con más errores que las demás, asi que podríamos sacarle mas pártido en el análisis. Por último, realizamos un análicis mucho mas profundo que puede consular [aqui](https://github.com/raulrguez09/DIU21/tree/master/P1)
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
