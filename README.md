@@ -37,7 +37,9 @@ Miembros
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+>>> Hemos creado a [Pablo](P1/pablo.png), porque queríamos tener el caso de una persona mayor sin experiencia en viajar, y así mostrar lo que le cuesta a una persona que no sabe mucho al respecto, el hecho de reservar viajes, alojamientos, visitas guiadas, etc.
+
+    Hemos creado a [Mei](P1/mei.png), para tener el caso de una persona extranjera, que no entiende el idioma del lugar al que quiere viajar y presentar las dificultades que hay por el no correcto entendimiento.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
