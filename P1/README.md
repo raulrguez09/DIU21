@@ -24,10 +24,19 @@ Github: https://github.com/raulrguez09/DIU21/tree/master/P1
 	![ScreenShot](pablo.png)
 
 	La segunda persona que hemos creado es Mei Ling, una chica de nacionalidad China, la cual su familia tiene un negocio de restaurantes, y esta, con tal de ayudar a su familia, se plantea descubrir nuevos sabores los cuales puedan usar en sus restaurantes, realizando un tour gastronómico por la ciudad de Granada.
-	
+
 	![ScreenShot](mei.png)
 
 - 2 User Journey Map  ( 1 por persona)
+
+	El mapa de Pablo
+
+	![ScreenShot](pabloMap.png)
+
+	El mapa de Mei
+
+	![ScreenShot](meiMap.png)
+	
 - Revisión de Usabilidad 
 	
 
