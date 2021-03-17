@@ -32,6 +32,7 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 >>> Nuestra tarea consiste en comparar las diversas webs que estan relacionadas con las actividades turísticas en Granada. Por ello una vez teníamos el objetivo en mente, encontramos las siguientes páginas web: [granadatur](http://www.granadatur.com/), [turgranada](https://www.turgranada.es/), [granada_info](https://granadainfo.com/), [guias_granada](https://www.guiasgranada.com/). 
+
 >>> Tras esto, pasamos a realizar un breve y conciso análicis a dichas plataformas. Esto consistía en realizar algunas funciones que nosotros considerábamos básicas como, buscar hotel en el centro de granada, buscar una ruta de tapas, encontrar información sobre el corpus, etc. A continuación, gracias a esta primera toma de contacto con las páginas decidimos escoger la web de "Granadatur", debido a que la veíamos como una web con más errores que las demás, asi que podríamos sacarle mas pártido en el análisis. Por último, realizamos un análicis mucho mas profundo que puede consular [aquí](https://github.com/raulrguez09/DIU21/tree/master/P1).
 
 ![Método UX](img/Persona.png) 1.b Persona
