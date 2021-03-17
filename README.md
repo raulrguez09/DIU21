@@ -31,8 +31,11 @@ Miembros
 
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
-
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+- granadatur: Se trata de la web que hemos elegido en cuestión. Es una plataforma con un diseño bastante anticuado y con poca variedad de idiomas. Aun así, la web cuenta con bastante información sobre diversas actividades turísticas y hospedajes en Granada.
+- turgranada: Esta plataforma posee una muy buena estructuración de la información, además el diseño de la web es intuitivo y bastante atractivo. Todo eso junto con la cantidad de idiomas que posee, presenta una muy buena opción tanto para extranjeros como para españoles.
+- granada_info: Esta web presenta un diseño minimalista pero eficaz. Presenta una gran variedad de informacion sobre la gastronomia en granada, aunque no posee ni app para móvil ni redes sociales.
+- guias_granada: Esta plataforma tiene una sobrecarga en el diseño, los colores son demasiado llamativos y la informacion esta mal estructurada. Aun asi esta cuenta con app y redes sociales para promocionar su web.
+ 
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
