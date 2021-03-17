@@ -29,11 +29,15 @@ Github: https://github.com/raulrguez09/DIU21/tree/master/P1
 
 - 2 User Journey Map  ( 1 por persona)
 
-	El mapa de Pablo
+	La visita de Pablo
+
+	La primera historia, cuenta sobre como Pablo, que no ha viajado nunca, planea un viaje para visitar a su hija en Granada, y de paso hacer un tour por la ciudad, y todas las dificultades que se encuentra para poder reservar alojamiento y encontrar servicios de visitas turísticas.
 
 	![ScreenShot](pabloMap.png)
 
-	El mapa de Mei
+	La ambición de Mei
+
+	La segunda historia, cuenta como Mei desde China, planea un viaje para realizar un tour gastronómico por la ciudad de Granada en sus vacaciones, y encontrar nuevos sabores, sobre todo de la dieta Mediterránea, que pueda usar en la empresa de restaurantes de sus padres y así ayudarles con el negocio.
 
 	![ScreenShot](meiMap.png)
 	
