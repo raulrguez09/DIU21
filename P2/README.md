@@ -24,7 +24,7 @@ La aplicación móvil a desarrollar trata de una plataforma insitucional para re
 | Consultar Correo.              | Medio-Alto      |  Medio-Alto          |     Alto        | Alto               | NO                       | 10       |
 | Consultar chat.                | Alto            |  Alto                |     Alto        | Bajo               | NO                       | 10       |
 | Consultar Promociones.         | Medio           |  Medio               |     Alto        | Alto               | NO                       | 10       |
-              | Bajo            |  Bajo                |     Alto        | Alto               | NO                       | 8        |
+| PUES buenos dias                               | Bajo            |  Bajo                |     Alto        | Alto               | NO                       | 8        |
 
 
 
