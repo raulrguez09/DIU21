@@ -1,8 +1,7 @@
 ## DIU - Practica2, entregables
 
 ### Feedback Capture Grid: Malla Receptora De Información.
-
-
+![ScreenShot](FeedbackCaptureGrid.jpg)
 
 ### PROPUESTA DE VALOR
 
