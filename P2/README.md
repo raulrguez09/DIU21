@@ -40,16 +40,32 @@ La aplicación móvil a desarrollar trata de una plataforma insitucional para re
 ### ARQUITECTURA DE INFORMACIÓN
 
 * Sitemap
+
 ![ScreenShot](imgs/sitemap.png)
 
-|Label                              | Scope Note                                        |
-| :------:                          | :------:                                          |
-| Portada                           | Página principal de la app                        |
-| Login                             |                                                   |
-| Hostelería                        |                                                   |
-| Hospedaje                         |                                                   |
-| Eventos                           |                                                   |
-| Puntos de interés                 | Página donde se listan los puntos de interés      | 
+|Label                              | Scope Note                                                                                                    |
+| :------:                          | :------:                                                                                                      |
+| Portada                           | Página principal de la app                                                                                    |
+| Login                             | Formulario donde se añaden los datos para el inicio de sesión                                                 |
+| Registro usuario                  | Formulario donde se añaden los datos para el registro de usuario                                              |
+| Perfil usuario                    | Página perfil del usuario, apareciendo sus datos                                                              |
+| Mis actividades turísticas        | Lista donde se guarda cualquier actividad para planificar el viaje                                            |
+| Mis ajustes                       | Página que permite modificar el perfil del usuario , pudiendo poner el modo nocturno y darse de baja          |
+| Actividaes turísticas             | Página donde elegir que buscas, si Establecimientos, rutas, o puntos de interés                               |
+| Establecimientos                  | Página donde elegir si el establecimiento que buscas es de Hostelería o de Hospedaje                          |
+| Hostelería                        | Muestra los lugares de comida más destacados de Granada                                                       |
+| Hospedaje                         | Muestra los lugares de hospedaje de Granada                                                                   |
+| Eventos                           | Muestra los próximos eventos reseñables que se celebren en Granada                                            |
+| Puntos de interés                 | Página donde se listan los puntos de interés                                                                  | 
+| Rutas                             | Página que contiene las rutas más realizadas por Granada                                                      |
+| Info ruta                         | Página que ofrece información sobre una ruta concreta                                                         |
+| Info Eventos                      | Página que ofrece información sobre un evento concreto                                                        | 
+| Info Punto de Interés             | Página que ofrece información sobre un punto de interés concreto                                              |
+| Sobre nosotros                    | Muestra información de la página y su organización                                                            |
+| Contacto                          | Contiene la información de contacto de la organización                                                        | 
+| Reservar                          | Página que permite reservar cualquier cosa seleccionada, sea un evento, hospedaje o hostelería                |
+
+
 
 * Labelling 
 
