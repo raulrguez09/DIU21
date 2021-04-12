@@ -35,14 +35,14 @@ ScopeCanvas
 | Alta o baja en grupo              | Bajo            |  Alto                |     Alto               | Bajo               | NO                       |
 | Consultar establecimiento         | Medio           |  Alto                |     Alto               | Medio              | Medio                    |
 | Activar Modo Oscuro               | Alto            |  Alto                |     Alto               | Alto               | Alto                     |
-
-
-* User/Task flow
+| Usar mapa para ver ubicaciones    | Medio           |  Alto                |     Alto               | Alto               | Bajo                     |
 
 
 ### ARQUITECTURA DE INFORMACIÓN
 
 * Sitemap 
+
+
 * Labelling 
 
 
