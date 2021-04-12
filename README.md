@@ -30,23 +30,23 @@ Miembros
 
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
->>> Nuestra tarea consiste en comparar las diversas webs que estan relacionadas con las actividades turísticas en Granada. Por ello una vez teníamos el objetivo en mente, encontramos las siguientes páginas web: [granadatur](http://www.granadatur.com/), [turgranada](https://www.turgranada.es/), [granada_info](https://granadainfo.com/), [guias_granada](https://www.guiasgranada.com/). 
+Nuestra tarea consiste en comparar las diversas webs que estan relacionadas con las actividades turísticas en Granada. Por ello una vez teníamos el objetivo en mente, encontramos las siguientes páginas web: [granadatur](http://www.granadatur.com/), [turgranada](https://www.turgranada.es/), [granada_info](https://granadainfo.com/), [guias_granada](https://www.guiasgranada.com/). 
 
->>> Tras esto, pasamos a realizar un breve y conciso análicis a dichas plataformas. Esto consistía en realizar algunas funciones que nosotros considerábamos básicas como, buscar hotel en el centro de granada, buscar una ruta de tapas, encontrar información sobre el corpus, etc. A continuación, gracias a esta primera toma de contacto con las páginas decidimos escoger la web de "Granadatur", debido a que la veíamos como una web con más errores que las demás, asi que podríamos sacarle mas pártido en el análisis. Por último, realizamos un análicis mucho mas profundo que puede consular [aquí](https://github.com/raulrguez09/DIU21/tree/master/P1).
+Tras esto, pasamos a realizar un breve y conciso análicis a dichas plataformas. Esto consistía en realizar algunas funciones que nosotros considerábamos básicas como, buscar hotel en el centro de granada, buscar una ruta de tapas, encontrar información sobre el corpus, etc. A continuación, gracias a esta primera toma de contacto con las páginas decidimos escoger la web de "Granadatur", debido a que la veíamos como una web con más errores que las demás, asi que podríamos sacarle mas pártido en el análisis. Por último, realizamos un análicis mucho mas profundo que puede consular [aquí](https://github.com/raulrguez09/DIU21/tree/master/P1).
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Hemos creado a [Pablo](P1/pablo.png), porque queríamos tener el caso de una persona mayor sin experiencia en viajar, y así mostrar lo que le cuesta a una persona que no sabe mucho al respecto, el hecho de reservar viajes, alojamientos, visitas guiadas, etc.
+* Hemos creado a [Pablo](P1/pablo.png), porque queríamos tener el caso de una persona mayor sin experiencia en viajar, y así mostrar lo que le cuesta a una persona que no sabe mucho al respecto, el hecho de reservar viajes, alojamientos, visitas guiadas, etc.
 
->>>  Hemos creado a [Mei](P1/mei.png), para tener el caso de una persona extranjera, que no entiende el idioma del lugar al que quiere viajar y presentar las dificultades que hay por el no correcto entendimiento.
+* Hemos creado a [Mei](P1/mei.png), para tener el caso de una persona extranjera, que no entiende el idioma del lugar al que quiere viajar y presentar las dificultades que hay por el no correcto entendimiento.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
->>> [La visita de Pablo](P1/pabloMap.png) Está si es una experiencia de usuario realmente habitual, cuando una persona visita a sus hijos en otra ciudad y aparte de ello, aprovechan la ocasión para realizar turismo en ese lugar.
+* [La visita de Pablo](P1/pabloMap.png) Está si es una experiencia de usuario realmente habitual, cuando una persona visita a sus hijos en otra ciudad y aparte de ello, aprovechan la ocasión para realizar turismo en ese lugar.
 
->>> [La ambición de Mei](P1/meiMap.png) Muestra un viaje de turismo a Granada de una persona extranjera, quizás la razón por la que lo hace no es muy habitual, pero lo que son los sucesos para realizarlo si lo considero habitual.
+* [La ambición de Mei](P1/meiMap.png) Muestra un viaje de turismo a Granada de una persona extranjera, quizás la razón por la que lo hace no es muy habitual, pero lo que son los sucesos para realizarlo si lo considero habitual.
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
