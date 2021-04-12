@@ -9,7 +9,7 @@
 
 La aplicación móvil a desarrollar trata de una plataforma insitucional para realizar turismo sobre la ciudad de Granada. La plataforma pondrá en contacto a las diferentes partes: Usuarios, profesionales y establecimientos, para una mayor facilidad de organización. Los usuarios tendrán la ventaja de poder realizar turismo con ventajas si se realiza en grupos de personas, disponiendo así de un costo menor. Los profesionales licenciados en turismo, tendrán beneficio tanto económico como de experiencia. Los establecimientos reciben el beneficio de la promoción por parte de la aplicación y además se podrán ofrecer a cambio de algún beneficio sus establecimientos para la realización de alguna actividad cultural.
 
-ScopeCanvas
+![ScreenShot](imgs/scope_canvas.png)
 
 ### TASK ANALYSIS
 
@@ -36,7 +36,6 @@ ScopeCanvas
 | Consultar establecimiento         | Medio           |  Alto                |     Alto               | Medio              | Medio                    |
 | Activar Modo Oscuro               | Alto            |  Alto                |     Alto               | Alto               | Alto                     |
 | Usar mapa para ver ubicaciones    | Medio           |  Alto                |     Alto               | Alto               | Bajo                     |
-
 
 ### ARQUITECTURA DE INFORMACIÓN
 
