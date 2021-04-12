@@ -44,6 +44,14 @@ La aplicación móvil a desarrollar trata de una plataforma insitucional para re
 
 * Labelling 
 
+|Label                              | Scope Note                                        |
+| :------:                          | :------:                                          |
+| Portada                           | Página principal de la app                        |
+| Registrarse                       |                                                   |
+| Hostelería                        |                                                   |
+| Hospedaje                         |                                                   |
+| Eventos                           |                                                   |
+| Puntos de interés                 | Página donde se listan los puntos de interés      | 
 
 ### Prototipo Lo-FI Wireframe 
 
