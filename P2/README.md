@@ -15,25 +15,26 @@ ScopeCanvas
 
 * User Task Matrix 
 
-|GRUPOS DE USUARIOS                 | Población Local | Turismo nacional     | Turismo Internacional  | Establecimientos   | Usuarios no registrados  |
+|GRUPOS DE USUARIOS                 | Población Local | Turismo Nacional     | Turismo Internacional  | Establecimientos   | Usuarios no registrados  |
 | :------:                          | :------:        | :------:             |  :------:              | :------:           |  :------:                |
-| Registrarse e iniciar sesión      | Alto            |  Alto                |     Alto               | Alto               | NO                       |
-| Consultar próximos eventos        | Medio           |  Bajo-Medio          |     Alto               | Alto               | NO                       |
-| Añadir a "Mi Viaje"               | Medio-Alto      |  Medio-Alto          |     Alto               | Alto               | NO                       |
-| Reservar hotel                    | Alto            |  Alto                |     Alto               | Bajo               | NO                       |
-| Reservar actividad                | Medio           |  Medio               |     Alto               | Alto               | NO                       |
-| Cambiar idioma                    | Bajo            |  Bajo                |     Alto               | Alto               | NO                       |
-| Visitar redes sociales del app    | Alto            |  Alto                |     Alto               | Alto               | NO                       |
-| Contactar con establecimiento     | Medio           |  Bajo-Medio          |     Alto               | Alto               | NO                       |
-| Búsqueda avanzada                 | Medio-Alto      |  Medio-Alto          |     Alto               | Alto               | NO                       |
-| Establecer promoción.             | Alto            |  Alto                |     Alto               | Alto               | NO                       |
-| Consultar promociones.            | Medio           |  Medio               |     Alto               | Alto               | NO                       |
-| Hacer uso de ayuda en tiempo real | Bajo            |  Bajo                |     Alto               | Alto               | NO                       |
-| Aportar comentarios               | Bajo            |  Bajo                |     Alto               | Alto               | NO                       |
-| Consultar chat.                   | Alto            |  Alto                |     Alto               | Alto               | NO                       |
-| Alta o baja en grupo              | Medio           |  Medio               |     Alto               | Alto               | NO                       |
-| Consultar establecimiento         | Bajo            |  Bajo                |     Alto               | Alto               | NO                       |
-| Activar Modo Oscuro               | Bajo            |  Bajo                |     Alto               | Alto               | NO                       |
+| Iniciar sesión                    | Alto            |  Alto                |     Alto               | Alto               | NO                       |
+| Registrarse                       | NO              |  NO                  |     NO                 | NO                 | NO                       |
+| Consultar próximos eventos        | Medio           |  Bajo                |     Medio              | Alto               | Medio                    |
+| Añadir a "Mi Viaje"               | Bajo            |  Medio-Alto          |     Medio-Alto         | Bajo               | NO                       |
+| Reservar hotel                    | Bajo            |  Alto                |     Alto               | Bajo               | NO                       |
+| Reservar actividad                | Medio           |  Alto                |     Alto               | Bajo               | NO                       |
+| Cambiar idioma                    | Bajo            |  Bajo                |     Alto               | Bajo               | Medio                    |
+| Visitar redes sociales del app    | Medio           |  Alto                |     Alto               | Medio-Alto         | Alto                     |
+| Contactar con establecimiento     | Medio           |  Medio-Alto          |     Alto               | Bajo               | NO                       |
+| Búsqueda avanzada                 | Medio           |  Alto                |     Alto               | Alto               | NO                       |
+| Establecer promoción.             | Bajo            |  Bajo                |     Bajo               | Alto               | NO                       |
+| Consultar promociones.            | Alto            |  Alto                |     Alto               | Medio-Alto         | NO                       |
+| Hacer uso de ayuda en tiempo real | Medio-Alto      |  Medio-Alto          |     Alto               | Alto               | Bajo                     |
+| Aportar comentarios               | Medio           |  Medio               |     Medio              | Bajo               | NO                       |
+| Consultar chat.                   | Bajo            |  Bajo                |     Bajo               | Medio              | NO                       |
+| Alta o baja en grupo              | Bajo            |  Alto                |     Alto               | Bajo               | NO                       |
+| Consultar establecimiento         | Medio           |  Alto                |     Alto               | Medio              | Medio                    |
+| Activar Modo Oscuro               | Alto            |  Alto                |     Alto               | Alto               | Alto                     |
 
 
 * User/Task flow
