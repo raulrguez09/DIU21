@@ -67,25 +67,25 @@ La aplicación móvil a desarrollar trata de una plataforma insitucional para re
 
 * Labelling
 
-|Label                              | Scope Note                                                    | Icon |      
-| :------:                          | :------:                                                      |      |
-| Pagina principal                  | Permite volver a la pagina principal                          |      |
-| Perfil de usuario                 | Nos dirige al perfil del usuario                              |      |
-| Mostrar contraseña                | Muestra la contraseña                                         |      |
-| Imagen usuario                    | Muestra la imagen del usuario                                 |      |
-| Login                             | Sirve para inciar sesión                                      |      |
-| Registrar                         | Sirve para registrar a un nuevo usuario                       |      |
-| Redes sociales                    | Muestra los iconos de redes sociales                          |      |
-| Botón de contacto                 | Botón para contactar con nosotros                             |      |
-| Barra de búsqueda                 | Permite realizar búsquedas                                    |      |
-| Filtro de busqueda                | Permite filtrar las búsquedas                                 |      |
-| Imagen actividad                  | Imagen de una actividad                                       |      |
-| Sección de ayuda                  | Mostrar opciones de ayuda al usuario                          |      |
-| Valoración sitio                  | Muestra estrellas (0 a 5) para medir el grado de satisfacción |      |
-| Comentarios                       | Comentarios de los usuarios                                   |      |
-| Galería de imágenes               | Galeria de imagenes sobre actividades                         |      |
-| Ubicación                         | Mapa de una ubicación                                         |      |
-| Enlace a maps                     | Enlace a google maps sobre una ubicación concreta             |      |
+|Label                              | Scope Note                                                    | Icon   |      
+| :------:                          | :------:                                                      | :-----:|
+| Pagina principal                  | Permite volver a la pagina principal                          |        |
+| Perfil de usuario                 | Nos dirige al perfil del usuario                              |        |
+| Mostrar contraseña                | Muestra la contraseña                                         |        |
+| Imagen usuario                    | Muestra la imagen del usuario                                 |        |
+| Login                             | Sirve para inciar sesión                                      |        |
+| Registrar                         | Sirve para registrar a un nuevo usuario                       |        |
+| Redes sociales                    | Muestra los iconos de redes sociales                          |        |
+| Botón de contacto                 | Botón para contactar con nosotros                             |        |
+| Barra de búsqueda                 | Permite realizar búsquedas                                    |        |
+| Filtro de busqueda                | Permite filtrar las búsquedas                                 |        |
+| Imagen actividad                  | Imagen de una actividad                                       |        |
+| Sección de ayuda                  | Mostrar opciones de ayuda al usuario                          |        |
+| Valoración sitio                  | Muestra estrellas (0 a 5) para medir el grado de satisfacción |        |
+| Comentarios                       | Comentarios de los usuarios                                   |        |
+| Galería de imágenes               | Galeria de imagenes sobre actividades                         |        |
+| Ubicación                         | Mapa de una ubicación                                         |        |
+| Enlace a maps                     | Enlace a google maps sobre una ubicación concreta             |        |
 
 
 
