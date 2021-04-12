@@ -37,9 +37,6 @@ La aplicación móvil a desarrollar trata de una plataforma insitucional para re
 | Activar Modo Oscuro               | Alto            |  Alto                |     Alto               | Alto               | Alto                     |
 
 
-* User/Task flow
-
-
 ### ARQUITECTURA DE INFORMACIÓN
 
 * Sitemap 
