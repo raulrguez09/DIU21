@@ -25,11 +25,16 @@ ScopeCanvas
 | Cambiar idioma                    | Bajo            |  Bajo                |     Alto        | Alto               | NO                       |
 | Visitar redes sociales del app    | Alto            |  Alto                |     Alto        | Alto               | NO                       |
 | Contactar con establecimiento     | Medio           |  Bajo-Medio          |     Alto        | Alto               | NO                       |
-| Contratar profesional             | Medio-Alto      |  Medio-Alto          |     Alto        | Alto               | NO                       |
-| Establecer promoción.             | Alto            |  Alto                |     Alto        | Bajo               | NO                       |
+| Búsqueda avanzada                 | Medio-Alto      |  Medio-Alto          |     Alto        | Alto               | NO                       |
+| Establecer promoción.             | Alto            |  Alto                |     Alto        | Alto               | NO                       |
 | Consultar promociones.            | Medio           |  Medio               |     Alto        | Alto               | NO                       |
 | Hacer uso de ayuda en tiempo real | Bajo            |  Bajo                |     Alto        | Alto               | NO                       |
 | Aportar comentarios               | Bajo            |  Bajo                |     Alto        | Alto               | NO                       |
+| Consultar chat.                   | Alto            |  Alto                |     Alto        | Alto               | NO                       |
+| Alta o baja en grupo              | Medio           |  Medio               |     Alto        | Alto               | NO                       |
+| Consultar establecimiento         | Bajo            |  Bajo                |     Alto        | Alto               | NO                       |
+| Activar Modo Oscuro               | Bajo            |  Bajo                |     Alto        | Alto               | NO                       |
+
 
 * User/Task flow
 
