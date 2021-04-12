@@ -39,8 +39,8 @@ La aplicación móvil a desarrollar trata de una plataforma insitucional para re
 
 ### ARQUITECTURA DE INFORMACIÓN
 
-* Sitemap 
-
+* Sitemap
+![ScreenShot](imgs/sitemap.png)
 
 * Labelling 
 
