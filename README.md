@@ -4,8 +4,7 @@ Prácticas Diseño Interfaces de Usuario 2020-21 (Tema: Turismo)
 Grupo: DIU2_Matarratas.  Curso: 2020/21 
 Updated: 13/3/2021
 
-Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+Proyecto: TourGraná 
 
 Descripción: 
 

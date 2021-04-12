@@ -7,7 +7,7 @@
 
 
 ### PROPUESTA DE VALOR
-* ScopeCanvas
+
 
 
 ### TASK ANALYSIS
