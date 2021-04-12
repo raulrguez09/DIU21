@@ -42,16 +42,18 @@ La aplicación móvil a desarrollar trata de una plataforma insitucional para re
 * Sitemap
 ![ScreenShot](imgs/sitemap.png)
 
-* Labelling 
-
 |Label                              | Scope Note                                        |
 | :------:                          | :------:                                          |
 | Portada                           | Página principal de la app                        |
-| Registrarse                       |                                                   |
+| Login                             |                                                   |
 | Hostelería                        |                                                   |
 | Hospedaje                         |                                                   |
 | Eventos                           |                                                   |
 | Puntos de interés                 | Página donde se listan los puntos de interés      | 
+
+* Labelling 
+
+
 
 ### Prototipo Lo-FI Wireframe 
 
