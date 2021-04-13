@@ -91,6 +91,28 @@ La aplicación móvil a desarrollar trata de una plataforma insitucional para re
 
 ### Prototipo Lo-FI Wireframe 
 
+* Portada
+
+![ScreenShot](imgs/portada.png)
+
+* Login
+
+![ScreenShot](imgs/login.png)
+
+* Registro usuario
+
+
+
+* Perfil usuario
+
+![ScreenShot](imgs/perfil.png)
+
+* Mis actividades turísticas
+
+
+* Mis ajustes
+
+![ScreenShot](imgs/ajustes_perfil.png)
 
 ### Conclusiones  
 (incluye valoración de esta etapa)
