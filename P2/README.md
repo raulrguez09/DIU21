@@ -114,5 +114,46 @@ La aplicación móvil a desarrollar trata de una plataforma insitucional para re
 
 ![ScreenShot](imgs/ajustes_perfil.png)
 
+* Actividades turísticas
+
+
+* Establecimientos
+
+![ScreenShot](imgs/establecimientos.png)
+
+* Hostelería
+
+![ScreenShot](imgs/hosteleria.png)
+
+* Hospedaje
+
+![ScreenShot](imgs/hospedaje.png)
+
+* Eventos
+
+![ScreenShot](imgs/eventos.png)
+
+* Puntos de interés
+
+![ScreenShot](imgs/puntos_interes.png)
+
+* Rutas
+
+![ScreenShot](imgs/rutas.png)
+
+* Rutas
+
+* Info Ruta
+
+* Info Eventos
+
+* Info Punto de Interés
+
+* Sobre nosotros
+
+* Contacto
+
+
+
 ### Conclusiones  
 (incluye valoración de esta etapa)
