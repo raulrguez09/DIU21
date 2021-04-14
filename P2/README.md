@@ -75,17 +75,15 @@ La aplicación móvil a desarrollar trata de una plataforma insitucional para re
 | Opciones                          | Te lleva al perfil del usuario                                | ![ScreenShot](imgs/iconos/opciones.png)   |
 | Ver contraseña                    | Muestra la contrasña que se ha escrito                        | ![ScreenShot](imgs/iconos/verPassword.png)|
 | Galería imágenes                  | Muestra varias imágenes que se pasan con el tiempo            | ![ScreenShot](imgs/iconos/imagenes.png)   |
-| Redes sociales                    | Muestra los iconos de redes sociales                          |                                           |
-| Botón de contacto                 | Botón para contactar con nosotros                             |                                           |
-| Barra de búsqueda                 | Permite realizar búsquedas                                    |                                           |
-| Filtro de busqueda                | Permite filtrar las búsquedas                                 |                                           |
-| Imagen actividad                  | Imagen de una actividad                                       |                                           |
-| Sección de ayuda                  | Mostrar opciones de ayuda al usuario                          |                                           |
-| Valoración sitio                  | Muestra estrellas (0 a 5) para medir el grado de satisfacción |                                           |
-| Comentarios                       | Comentarios de los usuarios                                   |                                           |
-| Galería de imágenes               | Galeria de imagenes sobre actividades                         |                                           |
-| Ubicación                         | Mapa de una ubicación                                         |                                           |
-| Enlace a maps                     | Enlace a google maps sobre una ubicación concreta             |                                           |
+| Redes sociales                    | Muestra los iconos de redes sociales                          | ![ScreenShot](imgs/iconos/redes.png)      |
+| Botón de contacto                 | Botón para contactar con nosotros                             | ![ScreenShot](imgs/iconos/contacto.png)   |
+| Barra de búsqueda                 | Permite realizar búsquedas                                    | ![ScreenShot](imgs/iconos/busqueda.png)   |
+| Imagen actividad                  | Imagen de una actividad                                       | ![ScreenShot](imgs/iconos/img_act.png)    |
+| Sección de ayuda                  | Mostrar opciones de ayuda al usuario                          | ![ScreenShot](imgs/iconos/ayuda.png)      |
+| Comentarios                       | Comentarios de los usuarios                                   | ![ScreenShot](imgs/iconos/comentarios.png) |
+| Galería de imágenes               | Galeria de imagenes sobre actividades                         | ![ScreenShot](imgs/iconos/galeria.png)    |
+| Ubicación                         | Mapa de una ubicación                                         | ![ScreenShot](imgs/iconos/mapa.png)       |
+| Enlace a maps                     | Enlace a google maps sobre una ubicación concreta             | ![ScreenShot](imgs/iconos/maps.png)                                          |
 
 
 
