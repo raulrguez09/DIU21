@@ -101,7 +101,7 @@ La aplicación móvil a desarrollar trata de una plataforma insitucional para re
 
 * Registro usuario
 
-
+![ScreenShot](imgs/registro.png)
 
 * Perfil usuario
 
@@ -109,6 +109,7 @@ La aplicación móvil a desarrollar trata de una plataforma insitucional para re
 
 * Mis actividades turísticas
 
+![ScreenShot](imgs/mis_actividades_turisticas.png)
 
 * Mis ajustes
 
@@ -116,6 +117,7 @@ La aplicación móvil a desarrollar trata de una plataforma insitucional para re
 
 * Actividades turísticas
 
+![ScreenShot](imgs/actividades_turisticas.png)
 
 * Establecimientos
 
@@ -141,19 +143,25 @@ La aplicación móvil a desarrollar trata de una plataforma insitucional para re
 
 ![ScreenShot](imgs/rutas.png)
 
-* Rutas
-
 * Info Ruta
+
+![ScreenShot](imgs/info_rutas.png)
 
 * Info Eventos
 
+![ScreenShot](imgs/info_eventos.png)
+
 * Info Punto de Interés
+
+![ScreenShot](imgs/info_interes.png)
 
 * Sobre nosotros
 
-* Contacto
+![ScreenShot](imgs/nosotros.png)
 
+* Ayuda
 
+![ScreenShot](imgs/ayuda.png)
 
 ### Conclusiones  
 (incluye valoración de esta etapa)
