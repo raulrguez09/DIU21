@@ -75,21 +75,16 @@ Para ver el ScopeCanvas [pulse aquí](https://github.com/raulrguez09/DIU21/tree/
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
-Hemo creado una matriz de tareas/usuarios (User/task matrix) donde se enumeran la lista de tareas, como por ejemplo, iniciar sesión, registarse, reservar un hotel, activar modo oscuro... y los perfiles de usuario como la población nacional/internacional, los establecimientos... Dentro de esto, se indica en cada caso frecuencia de uso (Baja/Media/Alta).
+Hemo creado una matriz de tareas/usuarios (User/task matrix) para analizar los usuarios que van a usar la aplicación y las tareas principales para poder analizar la frecuencia de uso de las acciones y así poder situar las funcionalidades en la aplicación. En dicha matriz se enumeran la lista de tareas, como por ejemplo, iniciar sesión, registarse, reservar un hotel, activar modo oscuro... y los perfiles de usuario como la población nacional/internacional, los establecimientos... Dentro de esto, se indica en cada caso frecuencia de uso (Baja/Media/Alta).
 
 Para ver la user/task matix [pulse aquí](https://github.com/raulrguez09/DIU21/tree/master/P2)
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
+Hemos propuesto una organización lógica de la navegación y los elementos de diseño de nuestra aplicación. Generando un "sitemap" junto con el etiquetado "labelling" del sitio (incluyendo iconos). Para una mayor comodidad se ha creado una jerarquía principal para tener una vista principal, ya en el siguiente paso se detallará con mas enfacis los apartados secundarios.
 
-
->>> Identificar términos para diálogo con usuario  
-
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
-
+Para ver el sitemap y el labelling [pulse aquí](https://github.com/raulrguez09/DIU21/tree/master/P2)
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
