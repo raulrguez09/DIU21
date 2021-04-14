@@ -63,18 +63,6 @@ En este punto hemos realizado una malla receptora de información. En dicha mall
 
 Para ver la malla receptora de información [pulse aquí](https://github.com/raulrguez09/DIU21/tree/master/P2)
 
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-    
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
-
-
-
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
 >>> Propuesta de valor 
