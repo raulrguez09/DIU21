@@ -57,12 +57,10 @@ En general la web no cumple con las principales características y metas que se 
 ## Paso 2. UX Design  
 
 
-![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
+![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid 
 ----
-
-
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
+En este punto hemos realizado una malla receptora de información. En dicha malla hemos recopilado las buenas características de la web que analizamos en la practica 1, las dificultades que encontraron nuestros usuarios, algunas sugerencias para implementar nuevas funcionalidades y, por último, una crítica constructiva centrándonos en los errores que hemos analizado e ideas aportadas por los desarrolladores.
+Para ver la malla receptora de información [pulse aquí](https://github.com/raulrguez09/DIU21/tree/master/P2)
 
  Interesante | Críticas     
 | ------------- | -------
