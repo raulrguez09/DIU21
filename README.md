@@ -63,14 +63,21 @@ En este punto hemos realizado una malla receptora de información. En dicha mall
 
 Para ver la malla receptora de información [pulse aquí](https://github.com/raulrguez09/DIU21/tree/master/P2)
 
-![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
+![Método UX](img/ScopeCanvas.png) 2.b Propuesta de valor y ScopeCanvas
 ----
->>> Propuesta de valor 
+
+* TourGraná
+
+La aplicación móvil a desarrollar trata de una plataforma insitucional para realizar turismo sobre la ciudad de Granada. La plataforma pondrá en contacto a las diferentes partes: Usuarios, profesionales y establecimientos, para una mayor facilidad de organización. Los usuarios tendrán la ventaja de poder realizar turismo con ventajas si se realiza en grupos de personas, disponiendo así de un costo menor. Los profesionales licenciados en turismo, tendrán beneficio tanto económico como de experiencia. Los establecimientos reciben el beneficio de la promoción por parte de la aplicación y además se podrán ofrecer a cambio de algún beneficio sus establecimientos para la realización de alguna actividad cultural.
+
+Para ver el ScopeCanvas [pulse aquí](https://github.com/raulrguez09/DIU21/tree/master/P2)
+
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
+Hemo creado una matriz de tareas/usuarios (User/task matrix) donde se enumeran la lista de tareas, como por ejemplo, iniciar sesión, registarse, reservar un hotel, activar modo oscuro... y los perfiles de usuario como la población nacional/internacional, los establecimientos... Dentro de esto, se indica en cada caso frecuencia de uso (Baja/Media/Alta).
 
->>> Definir "User Map" y "Task Flow" ... 
+Para ver la user/task matix [pulse aquí](https://github.com/raulrguez09/DIU21/tree/master/P2)
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
