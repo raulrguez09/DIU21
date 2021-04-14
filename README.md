@@ -88,9 +88,9 @@ Para ver el sitemap y el labelling [pulse aquí](https://github.com/raulrguez09/
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
+Para esta parte hemos desarrollado una serie de bocetos sobre el diseño del layout para Web/movil de nuestra aplicación. Dicha aplicación se ha diseñado de tal forma que se pueda llevar a cabo su implementación tanto en android o ios.
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
-
+Para ver los bocetos de la interfaz  [pulse aquí](https://github.com/raulrguez09/DIU21/tree/master/P2)
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
