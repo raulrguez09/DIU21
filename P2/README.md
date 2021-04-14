@@ -145,7 +145,7 @@ La aplicación móvil a desarrollar trata de una plataforma insitucional para re
 
 * Info Ruta
 
-![ScreenShot](imgs/info_rutas.png)
+![ScreenShot](imgs/info_ruta.png)
 
 * Info Eventos
 
