@@ -80,7 +80,7 @@ La aplicación móvil a desarrollar trata de una plataforma insitucional para re
 | Barra de búsqueda                 | Permite realizar búsquedas                                    | ![ScreenShot](imgs/iconos/busqueda.png)   |
 | Imagen actividad                  | Imagen de una actividad                                       | ![ScreenShot](imgs/iconos/img_act.png)    |
 | Sección de ayuda                  | Mostrar opciones de ayuda al usuario                          | ![ScreenShot](imgs/iconos/ayuda.png)      |
-| Comentarios                       | Comentarios de los usuarios                                   | ![ScreenShot](imgs/iconos/comentarios.png) |
+| Comentarios                       | Comentarios de los usuarios                                   | ![ScreenShot](imgs/iconos/comentario.png) |
 | Galería de imágenes               | Galeria de imagenes sobre actividades                         | ![ScreenShot](imgs/iconos/galeria.png)    |
 | Ubicación                         | Mapa de una ubicación                                         | ![ScreenShot](imgs/iconos/mapa.png)       |
 | Enlace a maps                     | Enlace a google maps sobre una ubicación concreta             | ![ScreenShot](imgs/iconos/maps.png)                                          |
