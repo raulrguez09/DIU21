@@ -11,7 +11,7 @@ Descripción:
 La aplicación móvil a desarrollar trata de una plataforma insitucional para realizar turismo sobre la ciudad de Granada. La plataforma pondrá en contacto a las diferentes partes: Usuarios, profesionales y establecimientos, para una mayor facilidad de organización. Los usuarios tendrán la ventaja de poder realizar turismo con ventajas si se realiza en grupos de personas, disponiendo así de un costo menor. Los profesionales licenciados en turismo, tendrán beneficio tanto económico como de experiencia. Los establecimientos reciben el beneficio de la promoción por parte de la aplicación y además se podrán ofrecer a cambio de algún beneficio sus establecimientos para la realización de alguna actividad cultural.
 
 Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+![Logotipo](P3/imgs/logotipo.png)
 
 Miembros
  * :bust_in_silhouette:   Raúl Rodríguez Pérez -  https://github.com/raulrguez09    :octocat:     
@@ -101,15 +101,16 @@ Para ver los bocetos de la interfaz  [pulse aquí](https://github.com/raulrguez0
 Hemos planteado el Diseño visual utilizando una guía de estilos (moodboard) utilizando la página de [Padlet](https://padlet.com/).
 Para diseñar el logotipo de nuestra aplicación, hemos usado como herramienta [WIX](https://es.wix.com/) que es una plataforma de desarrollo web, la cuál, te puede crear automaticamente logotipos contestando una serie de preguntas, o puedes crearlo tu a mano con las herramientas que de da. Nosotros lo hicimos a mano, escogiendo la paleta de colores, un icono que represente la Alhambra, ya que es un símbolo muy representativo de Granada,y también la fuente con la cuál se escribre el nombre de la app. En nuestro caso si se podría usar como cabecera de Twitter.
 
-![Icono](P3/imgs/logotipo.png) 
+![Logotipo](P3/imgs/logotipo.png) 
 
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
+Hemos planteado una Landing Page de manera que consiga la atracción del público objetivo, constando de usuarios que quieran conocer las actividades turísticas de granada, usando un título y subtítulo motivadores y llamativos, con una imagen atrayente y un CTA incitador.
 
->>> Plantear Landing Page 
+![Landing Page](P3/imgs/landing_page.png) 
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
