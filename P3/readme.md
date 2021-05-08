@@ -44,6 +44,22 @@ A continuacion hemos creado nuestra landing page o pagina de aterrizaje/principa
 
 ![ScreenShot](imgs/landing_page.png)
 
+## Patrones UI
+
+Para realizar los layouts finales de la aplicación, hemos buscado antes unos patrones de diseño que aplicar y tener como guía para crearlos. Para saber que patrones usar hemos utilizado de apoyo la web de [Mobbin](https://mobbin.design/patterns).
+
+- Incorporación: Para el acceso a la aplicación, empleamos los patrones de diseño de inicio de sesión y registro, dando posibilidad de realizarlo con la cuenta de Google o Facebook.
+ 
+- Contenido: Aqui tenemos el patron de diseño de la configuración, donde cambiar idioma y el modo oscuro, tambien el patrón de mapas y un patron para realizar la página principal, con una galería de imágenes.
+
+- Datos: Aquí, vamos a aplicar un patrón de búsqueda, y además , el patrón de filtros y ordenación, que se apliquen a los resultados obtenidos en las búsquedas. 
+
+- Comunicación: En este caso aplicaremos 3 patrones de diseño, el de "nosotros" que de información de la aplicación, otro de ayuda, en caso de no saber que ahcer, y por último, el de privacidad y términos legales. 
+
+- Social: Aplicaremos un patrones de comentarios, de compartir por redes sociales, y el de disponer de un perfil de usuario.
+
+- Layout: Finalmente , en layout aplicaremos un patron de modo oscuro, el cuál estará activado por defecto, pero se podrá cambiar.
+
 ## Mockup: LAYOUT HI-FI
 
 
