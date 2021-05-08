@@ -22,6 +22,8 @@ A continuacion hemos creado nuestra landing page o pagina de aterrizaje/principa
 
 ## Mockup: LAYOUT HI-FI
 
+Buenos dias hijo de puta
+
 
 ## Documentación: Publicación del Case Study
 
