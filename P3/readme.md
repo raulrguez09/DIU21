@@ -16,9 +16,15 @@ Hemos utilizado una paleta de colores con diversos tonos verdosos, que hacen rec
 * Tipografía:
 Para la tipografía hemos utilizado la misma fuente en todo el texto de nuestro diseño, dicha fuente tiene por nombre 'Ubuntu', y se visualiza así:
 
+![ScreenShot](imgs/ubuntu.png)
+
 Esta es una fuente clara, moderna y perfectamente legible, que compagina muy bien con nuestros deseos para el diseño. Es decir, conseguir una letra que incentive a su lectura y no dificulte su comprensión. Aún así, hemos querido diferenciar entre los títulos y el texto normal, poniendo un formato 'regular 400' para los títulos, aportando mas grosor y tamaño a la letra. Con esto conseguimos llamar la atención en un primer momento a los lectores.
 
+![ScreenShot](imgs/regular.png)
+
 Y por otro lado, en el resto del texto, se empleará un formato 'Light 300', un estilo con menos grosor, pero igual de legible y sencilla, para no cansar al lector.
+
+![ScreenShot](imgs/light.png)
 
 * Logotipo
 Partiendo de los colores seleccionados, se ha creado un logotipo sencillo pero efectista, que consigue transmitir una imagen moderna y actual. Este logotipo se ha creado usando la herramienta para crear logos que posee 'Wix'. Además, gracias a esta herramienta hemos podido realizar el siguiente apartado que son las 'Imágenes inspiradoras'.
