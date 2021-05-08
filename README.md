@@ -102,7 +102,7 @@ Para ver los bocetos de la interfaz  [pulse aquí](https://github.com/raulrguez0
 Hemos planteado el Diseño visual utilizando una guía de estilos (moodboard) utilizando la página de [Padlet](https://padlet.com/).
 Para diseñar el logotipo de nuestra aplicación, hemos usado como herramienta [WIX](https://es.wix.com/) que es una plataforma de desarrollo web, la cuál, te puede crear automaticamente logotipos contestando una serie de preguntas, o puedes crearlo tu a mano con las herramientas que de da. Nosotros lo hicimos a mano, escogiendo la paleta de colores, un icono que represente la Alhambra, ya que es un símbolo muy representativo de Granada,y también la fuente con la cuál se escribre el nombre de la app. En nuestro caso si se podría usar como cabecera de Twitter.
 
-![Logotipo](P3/imgs/logotipo.png) 
+Para ver la Moodboard realizada [pulse aquí](https://github.com/raulrguez09/DIU21/tree/master/P3)
 
 
 
