@@ -116,8 +116,9 @@ Hemos planteado una Landing Page de manera que consiga la atracción del públic
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+Basado en lo estudiado en clase y con ayuda de la página de [Mobbin](https://mobbin.design/patterns/), hemos seleccionado unos patrones de diseño, los cuáles se adaptan perfectamente tanto a lo que necesitamos como a lo que buscamos.
+
+Para consultar los patrones de diseño seleccionados [pulse aquí](https://github.com/raulrguez09/DIU21/tree/master/P3)
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
