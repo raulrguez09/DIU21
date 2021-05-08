@@ -11,6 +11,9 @@ En nuestro MoodBoard hemos reunido diferentes aspectos como pueden ser nuestro l
 ## Landing Page
 A continuacion hemos creado nuestra landing page o pagina de aterrizaje/principal, diseñada para conseguir la atracción del público objetivo, el cual en este caso, consta de usuarios que quieran conocer las actividades turísticas de granada. Para ello hemos utilizado un título y subtítulo motivadores y llamativos, una imagen atrayente y un CTA incitador.
 
+
+![ScreenShot](imgs/landing_page.png)
+
 ## Mockup: LAYOUT HI-FI
 
 
