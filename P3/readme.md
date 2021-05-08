@@ -12,7 +12,7 @@ En el Moodboard se incluyen los principales elementos de diseño a considerar an
 
 * Paleta de colores
 
-Hemos utilizado una paleta de colores con diversos tonos verdosos, que hacen recordar a los coloridos jardines de la principal atracción turística de Granada, la Alahambra. Además, poseemos colores pastel con un tono más claro que los verdes, para emplear en las letras y permitirnos destacar su contenido con respecto al fondo, aportando al mismo tiempo una atracción visual agradable para el usuario.
+-  Hemos utilizado una paleta de colores con diversos tonos verdosos, que hacen recordar a los coloridos jardines de la principal atracción turística de Granada, la Alahambra. Además, poseemos colores pastel con un tono más claro que los verdes, para emplear en las letras y permitirnos destacar su contenido con respecto al fondo, aportando al mismo tiempo una atracción visual agradable para el usuario.
 
 * Tipografía
 
