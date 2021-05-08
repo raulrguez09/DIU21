@@ -18,7 +18,7 @@ Hemos utilizado una paleta de colores con diversos tonos verdosos, que hacen rec
 
 Para la tipografía hemos utilizado la misma fuente en todo el texto de nuestro diseño, dicha fuente tiene por nombre 'Ubuntu', y se visualiza así:
 
-![ScreenShot](imgs/ubuntu.png)
+   ![ScreenShot](imgs/ubuntu.png)
 
 Esta es una fuente clara, moderna y perfectamente legible, que compagina muy bien con nuestros deseos para el diseño. Es decir, conseguir una letra que incentive a su lectura y no dificulte su comprensión. Aún así, hemos querido diferenciar entre los títulos y el texto normal, poniendo un formato 'regular 400' para los títulos, aportando mas grosor y tamaño a la letra. Con esto conseguimos llamar la atención en un primer momento a los lectores.
 
