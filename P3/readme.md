@@ -6,13 +6,19 @@ Como parte de la elaboración de la práctica 3, debemos crear nuestro propio di
 
 En nuestro MoodBoard hemos reunido diferentes aspectos como pueden ser nuestro logotipo, paleta de colores, iconos, fuentes utilizadas, y tres imágenes inspiradoras con un boceto de la apariencia visual deseada.
 
-# Guidelines
- Los guidelines son una serie de aspectos que nos van a permitir establecer un conjunto de reglas de utilidad general, estas reglas son de diseño visual, iconos y estilo para las ventanas.
-
-* Paleta de colores: hemos utilizado una paleta de colores con diversos tonos verdosos, que hacen recordar a los coloridos jardines de la principal atracción turística de Granada, la Alahambra. Además, poseemos colores pastel con un tono más claro que los verdes, para emplear en las letras y permitirnos destacar su contenido con respecto al fondo, aportando al mismo tiempo una atracción visual agradable para el usuario.
-
-
 ![ScreenShot](imgs/moodboard.png)
+
+En el Moodboard se incluyen los principales elementos de diseño a considerar antes de comenzar con el bocetaje HI-FI de la aplicación, es decir, los guidelines. Estos son una serie de elementos que nos van a permitir establecer un conjunto de reglas de utilidad general para la creación del diseño final. Nosotros hemos empleado los siguientes:
+
+* Paleta de colores: 
+Hemos utilizado una paleta de colores con diversos tonos verdosos, que hacen recordar a los coloridos jardines de la principal atracción turística de Granada, la Alahambra. Además, poseemos colores pastel con un tono más claro que los verdes, para emplear en las letras y permitirnos destacar su contenido con respecto al fondo, aportando al mismo tiempo una atracción visual agradable para el usuario.
+
+* Tipografía:
+Para la tipografía hemos utilizado la misma fuente en todo el texto de nuestro diseño, dicha fuente tiene por nombre 'Ubuntu', y se visualiza así:
+
+Esta es una fuente clara, moderna y perfectamente legible, que compagina muy bien con nuestros deseos para el diseño. Es decir, conseguir una letra que incentive a su lectura y no dificulte su comprensión. Aún así, hemos querido diferenciar entre los títulos y el texto normal, poniendo un formato 'regular 400' para los títulos, aportando mas grosor y tamaño a la letra. Con esto conseguimos llamar la atención en un primer momento a los lectores.
+
+Y por otro lado, en el resto del texto, se empleará un formato 'Light 300', un estilo con menos grosor, pero igual de legible y sencilla, para no cansar al lector.
 
 ## Landing Page
 A continuacion hemos creado nuestra landing page o pagina de aterrizaje/principal, diseñada para conseguir la atracción del público objetivo, el cual en este caso, consta de usuarios que quieran conocer las actividades turísticas de granada. Para ello hemos utilizado un título y subtítulo motivadores y llamativos, una imagen atrayente y un CTA incitador.
@@ -25,6 +31,5 @@ A continuacion hemos creado nuestra landing page o pagina de aterrizaje/principa
 
 ## Documentación: Publicación del Case Study
 
-gfufgefgusdgfosdfgosdgfsodgfuos
 (incluye) Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
  
