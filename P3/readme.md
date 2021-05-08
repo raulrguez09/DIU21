@@ -10,10 +10,12 @@ En nuestro MoodBoard hemos reunido diferentes aspectos como pueden ser nuestro l
 
 En el Moodboard se incluyen los principales elementos de diseño a considerar antes de comenzar con el bocetaje HI-FI de la aplicación, es decir, los guidelines. Estos son una serie de elementos que nos van a permitir establecer un conjunto de reglas de utilidad general para la creación del diseño final. Nosotros hemos empleado los siguientes:
 
-* Paleta de colores: 
+* Paleta de colores
+
 Hemos utilizado una paleta de colores con diversos tonos verdosos, que hacen recordar a los coloridos jardines de la principal atracción turística de Granada, la Alahambra. Además, poseemos colores pastel con un tono más claro que los verdes, para emplear en las letras y permitirnos destacar su contenido con respecto al fondo, aportando al mismo tiempo una atracción visual agradable para el usuario.
 
-* Tipografía:
+* Tipografía
+
 Para la tipografía hemos utilizado la misma fuente en todo el texto de nuestro diseño, dicha fuente tiene por nombre 'Ubuntu', y se visualiza así:
 
 ![ScreenShot](imgs/ubuntu.png)
@@ -27,12 +29,15 @@ Y por otro lado, en el resto del texto, se empleará un formato 'Light 300', un 
 ![ScreenShot](imgs/light.png)
 
 * Logotipo
+
 Partiendo de los colores seleccionados, se ha creado un logotipo sencillo pero efectista, que consigue transmitir una imagen moderna y actual. Este logotipo se ha creado usando la herramienta para crear logos que posee 'Wix'. Además, gracias a esta herramienta hemos podido realizar el siguiente apartado que son las 'Imágenes inspiradoras'.
 
 * Imágenes inspiradoras 
+
 Como hemos comentado, haciendo uso de las herramientas que ofrece 'Wix', hemos realizado 3 imágenes inspiradoras a modo de bocetos, o primera versión, sobre el posible diseño que tendria nuestra proyecto.
 
 * Iconos
+
 En este caso, se han reemplazado algunos de los iconos incluidos en el bocetaje inicial, por otros con un diseño más adecuado al estilo de la aplicación.
 
 ## Landing Page
