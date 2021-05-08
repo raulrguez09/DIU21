@@ -20,6 +20,15 @@ Esta es una fuente clara, moderna y perfectamente legible, que compagina muy bie
 
 Y por otro lado, en el resto del texto, se empleará un formato 'Light 300', un estilo con menos grosor, pero igual de legible y sencilla, para no cansar al lector.
 
+* Logotipo
+Partiendo de los colores seleccionados, se ha creado un logotipo sencillo pero efectista, que consigue transmitir una imagen moderna y actual. Este logotipo se ha creado usando la herramienta para crear logos que posee 'Wix'. Además, gracias a esta herramienta hemos podido realizar el siguiente apartado que son las 'Imágenes inspiradoras'.
+
+* Imágenes inspiradoras 
+Como hemos comentado, haciendo uso de las herramientas que ofrece 'Wix', hemos realizado 3 imágenes inspiradoras a modo de bocetos, o primera versión, sobre el posible diseño que tendria nuestra proyecto.
+
+* Iconos
+En este caso, se han reemplazado algunos de los iconos incluidos en el bocetaje inicial, por otros con un diseño más adecuado al estilo de la aplicación.
+
 ## Landing Page
 A continuacion hemos creado nuestra landing page o pagina de aterrizaje/principal, diseñada para conseguir la atracción del público objetivo, el cual en este caso, consta de usuarios que quieran conocer las actividades turísticas de granada. Para ello hemos utilizado un título y subtítulo motivadores y llamativos, una imagen atrayente y un CTA incitador.
 
