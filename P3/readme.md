@@ -62,6 +62,15 @@ Para realizar los layouts finales de la aplicación, hemos buscado antes unos pa
 
 ## Mockup: LAYOUT HI-FI
 
+![ScreenShot](imgs/Inicio_sesion.png)
+
+![ScreenShot](imgs/homepage.png)
+
+![ScreenShot](imgs/establecimientos.png)
+
+![ScreenShot](imgs/busqueda.png)
+
+![ScreenShot](imgs/configuracion.png)
 
 ## Documentación: Publicación del Case Study
 
