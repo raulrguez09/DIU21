@@ -61,15 +61,19 @@ Para realizar los layouts finales de la aplicación, hemos buscado antes unos pa
 - Layout: Finalmente , en layout aplicaremos un patron de modo oscuro, el cuál estará activado por defecto, pero se podrá cambiar.
 
 ## Mockup: LAYOUT HI-FI
-
+* Inicio de sesión
 ![ScreenShot](imgs/Inicio_sesion.PNG)
 
+* Homepage
 ![ScreenShot](imgs/homepage.PNG)
 
+* Establecimientos
 ![ScreenShot](imgs/establecimientos.PNG)
 
+* Busqueda
 ![ScreenShot](imgs/busqueda.PNG)
 
+* Configuración
 ![ScreenShot](imgs/configuracion.PNG)
 
 ## Documentación: Publicación del Case Study
