@@ -4,11 +4,9 @@ Como parte de la elaboración de la práctica 3, debemos crear nuestro propio di
 
 ## Moodboard (diseño visual + logotipo)   
 
-En nuestro MoodBoard hemos reunido diferentes aspectos como pueden ser nuestro logotipo, paleta de colores, iconos, fuentes utilizadas, y tres imágenes inspiradoras con un boceto de la apariencia visual deseada.
+En el Moodboard se incluyen los principales elementos de diseño a considerar antes de comenzar con el bocetaje HI-FI de la aplicación, es decir, los guidelines. Estos son una serie de elementos que nos van a permitir establecer un conjunto de reglas de utilidad general para la creación del diseño final. Nosotros hemos reunido diferentes aspectos como pueden ser nuestro logotipo, una paleta de colores, nuevos iconos, las fuentes utilizadas, y tres imágenes inspiradoras con un boceto de la apariencia visual deseada.
 
 ![ScreenShot](imgs/moodboard.png)
-
-En el Moodboard se incluyen los principales elementos de diseño a considerar antes de comenzar con el bocetaje HI-FI de la aplicación, es decir, los guidelines. Estos son una serie de elementos que nos van a permitir establecer un conjunto de reglas de utilidad general para la creación del diseño final. Nosotros hemos empleado los siguientes:
 
 * Paleta de colores
 
