@@ -123,15 +123,18 @@ Para consultar los patrones de diseño seleccionados [pulse aquí](https://githu
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+Hemos desarrollado unos 5 mockups, en los cuáles se implementan todos los patrones de diseño que hemos seleccionado antes, y aplicando todos los estilos visuales basado en el Moodboard que hemos creado al principio.
+
+Para consultar los mockups realizados [pulse aquí](https://github.com/raulrguez09/DIU21/tree/master/P3)
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
+Para publicar nuestro UX-Case Study, hemos realizado un vídeo de unos 3 min aproximadamente, explicando el proceso de nuestro caso de estudio.
 
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
+Para ver el vídeo accede al siguiente link(solo cuentas UGR):  https://drive.google.com/file/d/12OhtLHe4xZZKN48ny_6Uap1PHJHwGE0P/view?usp=sharing
+
 
 
 ## Paso 4. Evaluación 
