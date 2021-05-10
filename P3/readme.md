@@ -54,7 +54,7 @@ Para realizar los layouts finales de la aplicación, hemos buscado antes unos pa
 
 - Datos: Aquí, vamos a aplicar un patrón de búsqueda, y además , el patrón de filtros y ordenación, que se apliquen a los resultados obtenidos en las búsquedas. 
 
-- Comunicación: En este caso aplicaremos 3 patrones de diseño, el de "nosotros" que de información de la aplicación, otro de ayuda, en caso de no saber que ahcer, y por último, el de privacidad y términos legales. 
+- Comunicación: En este caso aplicaremos 3 patrones de diseño, el de "nosotros" que de información de la aplicación, otro de ayuda, en caso de no saber que hacer, y por último, el de privacidad y términos legales. 
 
 - Social: Aplicaremos un patrones de comentarios, de compartir por redes sociales, y el de disponer de un perfil de usuario.
 
@@ -82,6 +82,8 @@ Para realizar los layouts finales de la aplicación, hemos buscado antes unos pa
 ![ScreenShot](imgs/configuracion.PNG)
 
 ## Documentación: Publicación del Case Study
+
+Para la documentación de la realización de la práctica, hemos decidido hacer un vídeo de unos 3 min, explicando y argumentando el como ha sido el desarrollo y las cosas que hemos realizado para poder completarla.
 
 https://drive.google.com/file/d/12OhtLHe4xZZKN48ny_6Uap1PHJHwGE0P/view?usp=sharing
  
