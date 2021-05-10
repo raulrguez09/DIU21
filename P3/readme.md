@@ -83,5 +83,5 @@ Para realizar los layouts finales de la aplicación, hemos buscado antes unos pa
 
 ## Documentación: Publicación del Case Study
 
-(incluye) Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
+https://drive.google.com/file/d/12OhtLHe4xZZKN48ny_6Uap1PHJHwGE0P/view?usp=sharing
  
