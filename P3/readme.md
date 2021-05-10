@@ -85,5 +85,5 @@ Para realizar los layouts finales de la aplicación, hemos buscado antes unos pa
 
 Para la documentación de la realización de la práctica, hemos decidido hacer un vídeo de unos 3 min, explicando y argumentando el como ha sido el desarrollo y las cosas que hemos realizado para poder completarla.
 
-https://drive.google.com/file/d/12OhtLHe4xZZKN48ny_6Uap1PHJHwGE0P/view?usp=sharing
+Puedes ver el vídeo en el siguiente link(Solo con cuenta de la UGR): https://drive.google.com/file/d/12OhtLHe4xZZKN48ny_6Uap1PHJHwGE0P/view?usp=sharing
  
