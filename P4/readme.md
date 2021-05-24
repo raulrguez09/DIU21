@@ -30,8 +30,9 @@ Valoración caso B: 64,2857142857143 [Excel](https://github.com/raulrguez09/DIU2
 
 A raíz de la realización del cuestionario y de observar con detenmiento el trabajo de nuestros compañeros podemos llegar a una serie de conclusiones sobre sus puntos fuertes y débiles:
 
-- Puntos fuertes:
-- Puntos débiles:
+- Puntos fuertes: En principio, los diversos usuarios que han valorado la opción B coinciden en que la interfaz es intuitiva, fácil de usar y algo a lo que estamos acostumbrados a utilizar normalmente. Siendo de esta forma algo poco complejo y para lo que no necesitamos conocimientos previos de ningún tipo, ni ayuda extra para hacer uso de la misma. 
+
+- Puntos débiles: Así mismo, algunas de las notas negativas que se ha llevado a la aplicación puede deberse por el uso de los colores en el diseño de la misma. Dichos colores dificultan centrar la vista en un sitio concreto, y eso supone un esfuerzo extra para los usuarios. Debido a esto, y a una posible carga excesiva en los mockup, puede ser que algunas de las personas hayan visto la aplicación innecesariamente compleja. 
 
 
 ## Caso 2
