@@ -14,10 +14,10 @@ Lista de proyectos (en github) https://github.com/mgea/DIU20/blob/master/P4/proy
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| Paula         | M / 15-30   | Estudiante  | Media       | Extrovertida | Web.       | B 
+| Raúl          | H / 15-30   | Estudiante  | Media       | Timido       | Web        | B 
+| Fernando      | H / 15-30   | Estudiante  | Baja        | Creativo     | móvil      | B 
+| María         | M / 15-30   | Estudiante  | Media       | Egocéntrica  | Web        | B 
 
 ## Caso 2
 
