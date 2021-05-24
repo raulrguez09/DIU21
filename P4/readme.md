@@ -12,6 +12,13 @@ Lista de proyectos (en github) https://github.com/mgea/DIU20/blob/master/P4/proy
 ### b) User Testing
 
 
+| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
+| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
+| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
+| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
+| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
+| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+
 ## Caso 2
 
 Descripcion y hoja de valoración.  
