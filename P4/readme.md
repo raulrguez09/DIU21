@@ -35,6 +35,14 @@ A raíz de la realización del cuestionario y de observar con detenmiento el tra
 - Puntos débiles: Así mismo, algunas de las notas negativas que se ha llevado a la aplicación puede deberse por el uso de los colores en el diseño de la misma. Dichos colores dificultan centrar la vista en un sitio concreto, y eso supone un esfuerzo extra para los usuarios. Debido a esto, y a una posible carga excesiva en los mockup, puede ser que algunas de las personas hayan visto la aplicación innecesariamente compleja. 
 
 
+### c) Usability Report
+
+La review del Case of Study de Salsoteca que hemos realizado se puede ver [aqui]
+
+El report de usabilidad para la práctica B es el siguiente [report]
+
+### d) Conclusión
+
 ## Caso 2
 
 Descripcion y hoja de valoración.  
