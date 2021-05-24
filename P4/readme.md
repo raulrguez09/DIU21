@@ -11,14 +11,14 @@ Lista de proyectos (en github) https://github.com/mgea/DIU20/blob/master/P4/proy
 
 ### b) User Testing
 
-
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| Paula         | M / 15-30   | Estudiante  | Media       | Extrovertida | Web/Mac       | B 
-| Raúl          | H / 15-30   | Estudiante  | Media       | Timido       | Web/Windows        | B 
+| Yolanda       | M / 15-30   | Estudiante  | Media       | Extrovertida | Web/Mac       | A
+| Raúl          | H / 15-30   | Estudiante  | Media       | Timido       | Web/Windows        | A 
 | Fernando      | H / 15-30   | Estudiante  | Baja        | Creativo     | móvil/android      | B 
 | María         | M / 15-30   | Estudiante  | Media       | Egocéntrica  | Web/windows        | B 
 
+Hay más usuarios que han respondido a los cuestionarios de los que hay plasmados en la tabla. Esto es debido a que hemos querido simplificarlo, puesto que el tipo de usuario que han contestado nuestros cuestionarios es muy similar. Finalmente hemos obtenido 4 respuestas para el cuestionario A y 6 para el cuestionario B.
 
 ### b) Cuestionario SUS
 
