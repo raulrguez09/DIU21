@@ -25,7 +25,6 @@ Lista de proyectos (en github) https://github.com/mgea/DIU20/blob/master/P4/proy
 Hemos realizado un cuestionario para evaluar el caso asignado. Este ha sido contestado por los usuarios que hemos comentado anteriormente, y hemos obtenido su valoración final:
 
 Cuestionario caso B: [cuestionario](https://docs.google.com/forms/d/1lgUvT59JBG5VwTyruJnsc1PHA-6U85o6CUAaf-5DWSU/edit#responses)
-
 Valoración caso B: 64,2857142857143 [Excel](https://github.com/raulrguez09/DIU21/blob/master/P4/Caso%20B%20(respuestas)-1.xlsx)
 
 
