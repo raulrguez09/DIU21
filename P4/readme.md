@@ -37,7 +37,7 @@ A raíz de la realización del cuestionario y de observar con detenmiento el tra
 
 ### c) Usability Report
 
-La review del Case of Study de Salsoteca que hemos realizado se puede ver [aqui](https://github.com/raulrguez09/DIU21/blob/master/P4/UXCaseStudy-We-Robot.xls)
+La review del Case of Study de We-Robot que hemos realizado se puede ver [aqui](https://github.com/raulrguez09/DIU21/blob/master/P4/UXCaseStudy-We-Robot.xls)
 
 El report de usabilidad para la práctica B es el siguiente [report]
 
