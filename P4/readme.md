@@ -19,6 +19,15 @@ Lista de proyectos (en github) https://github.com/mgea/DIU20/blob/master/P4/proy
 | Fernando      | H / 15-30   | Estudiante  | Baja        | Creativo     | móvil/android      | B 
 | María         | M / 15-30   | Estudiante  | Media       | Egocéntrica  | Web/windows        | B 
 
+
+### b) Cuestionario SUS
+
+Hemos realizado un cuestionario para evaluar el caso asignado. Este ha sido contestado por los usuarios que hemos comentado anteriormente, y hemos obtenido su valoración final:
+
+Cuestionario caso B:
+Valoración caso B:
+
+
 ## Caso 2
 
 Descripcion y hoja de valoración.  
