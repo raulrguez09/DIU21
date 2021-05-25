@@ -43,8 +43,10 @@ A raíz de la realización del cuestionario y de observar con detenmiento el tra
 
 La review del Case of Study de We-Robot que hemos realizado se puede ver [aqui](https://github.com/raulrguez09/DIU21/blob/master/P4/UXCaseStudy-We-Robot.xls)
 
-El report de usabilidad para la práctica B es el siguiente [report]
+El report de usabilidad para la práctica B es el siguiente [report](https://github.com/raulrguez09/DIU21/blob/master/P4/informe_usabilidad.pdf)
 
 ### d) Conclusión
 
+	Podemos concluir finalmente en que la app, basándonos en los diversos usuarios que han completado los cuestionarios y junto a nuestro juicio al haber hecho una valoración completa del trabajo de nuestros compañeros, posee una interfaz bastante intuitiva, sin mucha complicación a la hora de usarla, siendo algo a lo que estamos acostumbrados a utilizar en las demás apps del mercado. Además posee una buena estructuración de contenidos y una idea de mercado que podría ser interesante. Sin embargo, podemos añadir, que la app B tiene margen de mejora debido a los puntos débiles que hemos sacado basados en los colores y la carga excesiva de mockup. Solucionando estos contratiempos, mejoraría bastante.
+	Queremos destacar que del A/B Test, observamos que el A solo le supera en un punto, siendo el diseño del A, relativamente bueno, por lo tanto, del B podemos asimilar que es casi lo mismo de bueno.
 
