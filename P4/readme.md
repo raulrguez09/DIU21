@@ -30,7 +30,7 @@ Valoración caso A: 78,75 [Excel](https://github.com/raulrguez09/DIU21/blob/mast
 
 Cuestionario caso B: [cuestionario](https://docs.google.com/forms/d/1lgUvT59JBG5VwTyruJnsc1PHA-6U85o6CUAaf-5DWSU/edit#responses)
 
-Valoración caso B: 75 [Excel](https://github.com/raulrguez09/DIU21/blob/master/P4/CasoB_Respuestas.xlsx)
+Valoración caso B: 75 [Excel](https://github.com/raulrguez09/DIU21/blob/master/P4/Caso_B_Respuestas.xlsx)
 
 A raíz de la realización del cuestionario y de observar con detenmiento el trabajo de nuestros compañeros podemos llegar a una serie de conclusiones sobre sus puntos fuertes y débiles:
 
