@@ -47,22 +47,4 @@ El report de usabilidad para la práctica B es el siguiente [report]
 
 ### d) Conclusión
 
-## Caso 2
 
-Descripcion y hoja de valoración.  
-
-
-## Caso 3
-
-Descripcion y hoja de valoración.   
-
-## User Testing
-
-	Describe la experiencia 1
-
-	Describe la experiencia 2
-
-	Describe la experiencia 3
-
-
-## Conclusiones
