@@ -26,11 +26,11 @@ Hemos realizado un cuestionario para evaluar el caso asignado. Este ha sido cont
 
 Cuestionario caso A: [cuestionario](https://docs.google.com/forms/d/1IZLwd2tNeFY0n7D8FpE8zv1vzsh7i-omB2nf7XRZe3M/edit#responses)
 
-Valoración caso A: 65,7142857142857 [Excel](https://github.com/raulrguez09/DIU21/blob/master/P4/Caso%20A%20(respuestas)-1.xlsx)
+Valoración caso A: 52,0833333333333 [Excel](https://github.com/raulrguez09/DIU21/blob/master/P4/CasoA_Respuestas.xlsx)
 
 Cuestionario caso B: [cuestionario](https://docs.google.com/forms/d/1lgUvT59JBG5VwTyruJnsc1PHA-6U85o6CUAaf-5DWSU/edit#responses)
 
-Valoración caso B: 64,2857142857143 [Excel](https://github.com/raulrguez09/DIU21/blob/master/P4/Caso%20B%20(respuestas)-1.xlsx)
+Valoración caso B: 47,5 [Excel](https://github.com/raulrguez09/DIU21/blob/master/P4/CasoB_Respuestas.xlsx)
 
 A raíz de la realización del cuestionario y de observar con detenmiento el trabajo de nuestros compañeros podemos llegar a una serie de conclusiones sobre sus puntos fuertes y débiles:
 
@@ -48,5 +48,5 @@ El report de usabilidad para la práctica B es el siguiente [report](https://git
 ### d) Conclusión
 
 Podemos concluir finalmente en que la app, basándonos en los diversos usuarios que han completado los cuestionarios y junto a nuestro juicio al haber hecho una valoración completa del trabajo de nuestros compañeros, posee una interfaz bastante intuitiva, sin mucha complicación a la hora de usarla, siendo algo a lo que estamos acostumbrados a utilizar en las demás apps del mercado. Además posee una buena estructuración de contenidos y una idea de mercado que podría ser interesante. Sin embargo, podemos añadir, que la app B tiene margen de mejora debido a los puntos débiles que hemos sacado basados en los colores y la carga excesiva de mockup. Solucionando estos contratiempos, mejoraría bastante.
-	Queremos destacar que del A/B Test, observamos que el A solo le supera en un punto, siendo el diseño del A, relativamente bueno, por lo tanto, del B podemos asimilar que es casi lo mismo de bueno.
+	Queremos destacar que del A/B Test, observamos que el A solo le supera por pocos puntos, siendo el diseño del A, relativamente bueno, por lo tanto, del B podemos asimilar que es casi lo mismo de bueno.
 
