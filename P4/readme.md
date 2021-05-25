@@ -26,7 +26,7 @@ Hemos realizado un cuestionario para evaluar el caso asignado. Este ha sido cont
 
 Cuestionario caso A: [cuestionario](https://docs.google.com/forms/d/1IZLwd2tNeFY0n7D8FpE8zv1vzsh7i-omB2nf7XRZe3M/edit#responses)
 
-Valoración caso A: 52,0833333333333 [Excel](https://github.com/raulrguez09/DIU21/blob/master/P4/CasoA_Respuestas.xlsx)
+Valoración caso A: 78,75 [Excel](https://github.com/raulrguez09/DIU21/blob/master/P4/CasoA_Respuestas.xlsx)
 
 Cuestionario caso B: [cuestionario](https://docs.google.com/forms/d/1lgUvT59JBG5VwTyruJnsc1PHA-6U85o6CUAaf-5DWSU/edit#responses)
 
